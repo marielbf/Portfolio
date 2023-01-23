@@ -447,6 +447,11 @@ strong {
   font-family: Nognathy !important;
 }
 
+.home {
+    font-family: Nognathy !important;
+    margin-left: 1rem;
+  }
+
 /* span a capo */
 p.forced, h3.forced {
   position: relative;
