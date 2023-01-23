@@ -164,6 +164,7 @@ a:hover, footer a:hover {
 .hero h1 span {
   color: #33150d;
   position: relative;
+  size: 80vw;
 }
 .hero h1 span:nth-child(2) {
   top: 0.2rem;
@@ -323,7 +324,7 @@ a:hover, footer a:hover {
 .me .portrait {
   position: absolute;
   display: block;
-  width: 600px;
+  width: 50vw;
   left: 0;
   top: 0;
   right: 0;
