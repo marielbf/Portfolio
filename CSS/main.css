@@ -728,3 +728,19 @@ footer p {
   font-size: 0.6rem;
   margin-bottom: 0;
 }/*# sourceMappingURL=main.css.map */
+
+.serif2 {
+    font-family: Nognathy !important;
+    width: 80vw;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+
+.exp2 {
+    margin-left: 3rem;
+}
+
+.portlines {
+    width: 80vw;
+    position: middle;
+}
